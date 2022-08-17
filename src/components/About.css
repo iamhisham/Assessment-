@@ -1,0 +1,14 @@
+.div-wid {
+  width: 50%;
+}
+
+.cent {
+  display: flex;
+  justify-content: center;
+  height: 76vh;
+  align-items: center;
+}
+
+.div-wid h1 {
+  padding: 3% 0%;
+}
